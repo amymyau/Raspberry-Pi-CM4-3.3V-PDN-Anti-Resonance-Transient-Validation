@@ -41,5 +41,3 @@ A hardware-in-the-loop (HIL) validation and LTspice simulation framework investi
 * ![LTspice Simulation_1](./LTSPICE_AC_small_signal.png)
 * ![LTspice Simulation_1](./LTSPICE_time_domain.png)
 
-# Raspberry-Pi-CM4-3.3V-PDN-Anti-Resonance-Transient-Validation
-Raspberry Pi CM4 3.3V PDN Anti-Resonance &amp; Transient Validation
