@@ -37,7 +37,7 @@ A hardware-in-the-loop (HIL) validation and LTspice simulation framework investi
 * **Root Cause Confirmation:** Proved that fast software workloads trigger constructive superposition across the 284 kHz anti-resonance node, sustaining high-amplitude voltage noise during execution.
 * **Predictive Testbench:** Established a robust simulation baseline for evaluating layout modifications, targeted damping networks, and capacitor redistribution strategies to ensure power rail reliability.
 
-* ![CM4 Scope Capture](./cm4_scope_capture.png)
+* ![CM4 Scope Capture](./CM4_IDLE_noise.jpg)
 
 # Raspberry-Pi-CM4-3.3V-PDN-Anti-Resonance-Transient-Validation
 Raspberry Pi CM4 3.3V PDN Anti-Resonance &amp; Transient Validation
