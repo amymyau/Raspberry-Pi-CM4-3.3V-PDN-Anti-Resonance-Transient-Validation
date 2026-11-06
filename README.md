@@ -38,6 +38,7 @@ A hardware-in-the-loop (HIL) validation and LTspice simulation framework investi
 * **Predictive Testbench:** Established a robust simulation baseline for evaluating layout modifications, targeted damping networks, and capacitor redistribution strategies to ensure power rail reliability.
 
 * ![CM4 Scope Capture](./CM4_IDLE_noise.jpg)
+* ![LTspice Simulation_1](./screenshot 2026-11-06 130725.png)
 
 # Raspberry-Pi-CM4-3.3V-PDN-Anti-Resonance-Transient-Validation
 Raspberry Pi CM4 3.3V PDN Anti-Resonance &amp; Transient Validation
